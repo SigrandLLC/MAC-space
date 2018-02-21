@@ -1,0 +1,13 @@
+Sigrand OUI: 58-BD-F9
+
+"from" and "to" are inclusive, to - from + 1 == number.
+
+                          assigment
+  from      to    number    date    description
+-------- -------- ------ ---------- -----------
+
+00-00-00 00-00-00      1 18.08.2013 reserved
+00-00-01 00-05-dc   1500 18.08.2013 Camera SG-1C-xxx and SG-3C-xxxx at
+                                    Consons Electronic Technology Limited,
+                                    Shenzhen, China, http://consons.com
+00-05-dd 00-0d-ac   2000 07.07.2014 Camera SG-3C, China
